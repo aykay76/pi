@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv)
 {
-	int pin[4] = { 5, 6, 13, 19 };
+	int pin[4] = { 29, 31, 33, 35 };
 	int sequence[8][4] = {
 		{ 1, 0, 0, 0},
 		{ 1, 1, 0, 0},
